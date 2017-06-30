@@ -1,0 +1,25 @@
+{
+  "name": "pavlism-iolib",
+  "version": "0.0.1",
+  "description": "Simple Lib for IO function",
+  "main": "IOLib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavlism/IOLib.git"
+  },
+  "keywords": [
+    "IO",
+    "Lib",
+    "pavlism"
+  ],
+  "author": "Mark Pavlis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavlism/IOLib/issues"
+  },
+  "dependencies": {"pavlism-logger": "^1.0.0"},
+  "homepage": "https://github.com/pavlism/IOLib#readme"
+}
