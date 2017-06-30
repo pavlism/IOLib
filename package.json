@@ -1,6 +1,6 @@
 {
   "name": "pavlism-iolib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple Lib for IO function",
   "main": "IOLib.js",
   "scripts": {
